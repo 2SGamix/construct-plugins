@@ -1,4 +1,4 @@
-Im making free construct plugins.
+Gamix Lbs Construct Plugins
 Also convert construct2 plugins (c3runtime).
 
 You can free download my plugins and converted plugins.
